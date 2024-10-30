@@ -343,3 +343,46 @@
 19:36:06.529  [main] INFO  testcase.TC_001AccountRegistrationTest - ************ Finish TC_001AccountRegistrationTest*********
 19:36:10.196  [main] INFO  testcase.TC_002LoginTest - ************ Starting TC_002LoginTest*********
 19:36:11.866  [main] INFO  testcase.TC_002LoginTest - ********Finished TC_002Logintest****
+19:53:31.422  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"
+19:57:31.630  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"
+19:57:37.246  [main] INFO  testcase.TC_001AccountRegistrationTest - ************ Starting TC_001AccountRegistrationTest*********
+19:57:37.384  [main] INFO  testcase.TC_001AccountRegistrationTest - Clicked on MyACcount...
+19:57:37.856  [main] INFO  testcase.TC_001AccountRegistrationTest - Clicked on Register linnk...
+19:57:37.863  [main] INFO  testcase.TC_001AccountRegistrationTest - providing Customer Details...
+19:57:39.790  [main] INFO  testcase.TC_001AccountRegistrationTest - Validating expected message...
+19:57:39.847  [main] INFO  testcase.TC_001AccountRegistrationTest - ************ Finish TC_001AccountRegistrationTest*********
+19:57:43.757  [main] INFO  testcase.TC_002LoginTest - ************ Starting TC_002LoginTest*********
+19:57:45.560  [main] INFO  testcase.TC_002LoginTest - ********Finished TC_002Logintest****
+18:47:55.339  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"
+18:47:55.548  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\java programs-aug12\Opencart124\master.xml
+
+18:48:05.699  [main] INFO  testcase.Tc_004_Search -  Starting TC_004_SearchProductTest 
+18:48:06.193  [main] INFO  testcase.Tc_004_Search -  Finished TC_004_SearchProductTest 
+22:45:55.765  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"
+22:45:56.079  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\java programs-aug12\Opencart124\master.xml
+
+22:46:02.722  [main] INFO  testcase.Tc_004_Search -  Starting TC_004_SearchProductTest 
+22:46:03.371  [main] INFO  testcase.Tc_004_Search -  Finished TC_004_SearchProductTest 
+23:00:09.544  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"
+23:00:09.818  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\java programs-aug12\Opencart124\master.xml
+
+23:00:14.196  [main] INFO  testcase.Tc_004_Search -  Starting TC_004_SearchProductTest 
+23:00:14.712  [main] INFO  testcase.Tc_004_Search -  Finished TC_004_SearchProductTest 
+23:04:28.896  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"
+23:04:29.145  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\java programs-aug12\Opencart124\master.xml
+
+23:04:33.188  [main] INFO  testcase.Tc_004_Search -  Starting TC_004_SearchProductTest 
+23:04:33.872  [main] INFO  testcase.Tc_004_Search -  Finished TC_004_SearchProductTest 
+23:05:33.672  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"
+23:05:33.990  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\java programs-aug12\Opencart124\master.xml
+
+23:05:38.544  [main] INFO  testcase.Tc_004_Search -  Starting TC_004_SearchProductTest 
+23:05:39.148  [main] INFO  testcase.Tc_004_Search -  Finished TC_004_SearchProductTest 
+23:26:17.099  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"
+23:27:14.838  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"
+23:28:29.821  [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\java programs-aug12\Opencart124\master.xml"

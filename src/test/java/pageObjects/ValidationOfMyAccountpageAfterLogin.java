@@ -14,6 +14,9 @@ public class ValidationOfMyAccountpageAfterLogin extends Basepage
 	@FindBy(xpath="//h2[text()='My Account']")
 	WebElement validationofmyaccount;
 	
+	@FindBy(xpath = "//div[@class='list-group']//a[text()='Logout']")   //added in step6
+	WebElement lnkLogout;
+	
 	public boolean myaccountexists()
 	{
 		try {
@@ -23,6 +26,12 @@ public class ValidationOfMyAccountpageAfterLogin extends Basepage
 		{
 			return false;
 		}
+	}
+		public void clickLogout()
+		{
+			lnkLogout.click();
+		}
+		
 	}
 	
 	
@@ -34,4 +43,4 @@ public class ValidationOfMyAccountpageAfterLogin extends Basepage
 	
 	
 	
-}
+

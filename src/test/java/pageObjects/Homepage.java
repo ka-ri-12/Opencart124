@@ -22,6 +22,15 @@ WebElement inkregister;
 @FindBy(linkText="Login")
 WebElement inklogin;
 
+@FindBy(xpath="//input[@placeholder='Search']")
+WebElement txtsearch;
+
+@FindBy(xpath="//div[@id='search']//button[@type='button']")
+WebElement btnsearch;
+
+
+
+
 
 
 
@@ -39,10 +48,16 @@ public void clicklogin()
 	inklogin.click();
 }
 	
+	public void entertxt(String pname)  //to search the product
+	{
+		txtsearch.sendKeys(pname);
+	}
 	
 	
-	
-	
+	public void clickonsearchsymbol()
+	{
+		btnsearch.click();
+	}
 	
 	
 	

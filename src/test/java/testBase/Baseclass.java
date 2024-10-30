@@ -33,6 +33,7 @@ public class Baseclass {
 	public  static WebDriver driver;
 	public Logger logger;
 	public Properties p;
+	@SuppressWarnings("deprecation")
 	@BeforeClass(groups= {"sanity","Regression"})
 	@Parameters({"os","browser"})
 		public void setup(String os,String br) throws IOException

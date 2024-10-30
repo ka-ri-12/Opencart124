@@ -10,9 +10,10 @@
                <parameter name="browser" value="chrome"/>
   
   <classes>
-    <class name="testcase.TC_001AccountRegistrationTest"/>
-           <class name="testcase.TC_002LoginTest"/>
-
+   <!-- <class name="testcase.TC_001AccountRegistrationTest"/>-->
+         <!-- <class name="testcase.TC_002LoginTest"/>-->
+         <!-- <class name ="testcase.Tc_004_Search"/>-->
+            <class name ="testcase.Tc_005_AddToCartPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
